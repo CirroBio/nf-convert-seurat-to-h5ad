@@ -1,0 +1,8 @@
+{
+    "form": {
+        "title": "Convert Seurat (.rds) to h5ad",
+        "description": "Select the dataset(s) containing Seurat objects (.rds) that you want to convert to h5ad format.",
+        "properties": {}
+    },
+    "ui": {}
+}
